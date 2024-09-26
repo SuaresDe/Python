@@ -1,0 +1,5 @@
+# Ative o ambiente virtual com o comando 'source nome_do_ambiente/bin/activate'
+source nome_do_ambiente/bin/activate
+
+# Para desativar o ambiente virtual, apenas digite 'deactivate'
+deactivate

@@ -1,0 +1,10 @@
+{
+    "last_serial": 100001,
+    "products": [
+        {
+            "name": "Banana",
+            "price": 2.0,
+            "serial": "SN-100001"
+        }
+    ]
+}

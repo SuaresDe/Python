@@ -16,5 +16,5 @@ print(cash_balance)
 cash_balance //= 1
 print(cash_balance)
 
-cash_balance %= 0
+cash_balance %= 1
 print(cash_balance)

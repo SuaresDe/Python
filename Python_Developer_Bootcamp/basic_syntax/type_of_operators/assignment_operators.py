@@ -18,3 +18,6 @@ print(cash_balance)
 
 cash_balance %= 1
 print(cash_balance)
+
+cash_balance **= 2
+print(cash_balance)
